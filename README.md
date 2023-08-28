@@ -2,12 +2,6 @@
 
 This repository contains my submission for the CiSTUP IIScp Python Test. The aim of this competition was to test problem-solving skills and basic understanding of Python. I participated in this competition to challenge myself and showcase my coding and analytical abilities.
 
-# Description
-# Submission Contents
-# Instructions Followed
-# Code Style
-# Evaluation Criteria
-
 
 # Description
 This competition focused on assessing participants' problem-solving skills and Python programming expertise. The tasks were designed to evaluate our ability to create efficient code and communicate findings through a well-structured report.
